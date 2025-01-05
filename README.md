@@ -11,11 +11,6 @@ Pig Game is a fun browser-based game for two players. The goal is to score the m
 3. The player can click the "Hold" button to save their current score into the total score and pass the turn.
 4. The game continues until one of the players reaches the predetermined winning score (default: 100).
 
-## Features
-
-- **Interactive Interface:** A simple and intuitive design.
-- **Graphics:** Realistic dice images.
-- **Game Logic:** All rules and actions implemented using JavaScript.
 
 ## Technologies
 
